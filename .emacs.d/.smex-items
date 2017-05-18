@@ -1,0 +1,29 @@
+
+;; ----- smex-history -----
+(
+ auto-complete-mode
+ rainbow-delimiters-mode
+ package-list-packages
+ package-install
+ package-refresh-contents
+ auto-complete
+ cider-jack-in
+)
+
+;; ----- smex-data -----
+(
+ (cider-jack-in . 11)
+ (comment-region . 6)
+ (replace-string . 3)
+ (auto-complete-mode . 12)
+ (cider-run . 1)
+ (cider-restart . 1)
+ (sql-postgres . 6)
+ (sql-mode . 1)
+ (cider-inspect . 1)
+ (package-install . 5)
+ (package-list-packages . 3)
+ (auto-complete . 1)
+ (package-refresh-contents . 1)
+ (rainbow-delimiters-mode . 2)
+)
